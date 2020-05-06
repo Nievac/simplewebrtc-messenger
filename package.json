@@ -20,5 +20,8 @@
     "jquery": "^3.3.1",
     "semantic-ui-css": "^2.3.1",
     "simplewebrtc": "^3.0.1"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
